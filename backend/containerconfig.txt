@@ -1,0 +1,3 @@
+nome do container:  database
+login: postgres
+senha: docker

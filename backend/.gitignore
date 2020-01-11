@@ -1,0 +1,6 @@
+tmp/uploads/
+
+node_modules
+.env
+
+.vscode
