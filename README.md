@@ -22,7 +22,7 @@ For the visualization of the datas and consume the API:
 - [Insomnia](https://insomnia.rest/download/) used for consume the routes of backend
 
 ### Installing
-Open the backend folder and use ```yarn add``` for download all packages. After that, setup the .env file using the .env.example file.
+Open the backend folder and use ```yarn add``` to download all packages. After that, setup the .env file using the .env.example file.
 
 ![giphy](https://user-images.githubusercontent.com/43659888/72206994-f932e600-3472-11ea-8c2b-7b4c24e9b47c.gif)
 
