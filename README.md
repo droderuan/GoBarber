@@ -27,7 +27,7 @@ For the visualization of the datas and consume the API:
 - To do the migrations, type ```yarn sequelize db:migrate```
 
 ## License
-This project is licensed under the MIT License - see [LICENSE](LICENSE.md) file for more details.
+This project is licensed under the MIT License - see [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 My inspirations is every problem that can be solved with some creativity, focus and programming (of course) and I really wanna do the difference one day.
