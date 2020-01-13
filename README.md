@@ -34,4 +34,4 @@ My inspirations is every problem that can be solved with some creativity, focus 
 
 ![giphy](https://user-images.githubusercontent.com/43659888/72206994-f932e600-3472-11ea-8c2b-7b4c24e9b47c.gif)
 
-That's it! Now the API should be running, any issue feel free to send a message and I'll tyr to help.
+That's it! Now the API should be running, any issue feel free to send a message and I'll try to help.
